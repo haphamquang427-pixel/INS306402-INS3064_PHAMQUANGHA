@@ -63,10 +63,10 @@
         
         <?php
         // Khai báo thông tin cá nhân
-        $hoTen = "Nguyễn Văn A";
-        $mssv = "123456789";
-        $lop = "INS3064-01";
-        $email = "nguyenvana@email.com";
+        $hoTen = "Phạm Quang Hà";
+        $mssv = "22070551";
+        $lop = "INS30642";
+        $email = "haphamquang427@gmail.com";
         ?>
         
         <h1><?php echo $hoTen; ?></h1>
